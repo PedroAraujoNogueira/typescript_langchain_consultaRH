@@ -1,5 +1,5 @@
 
-# LangGraph.js-MongoDB-Example
+# LangGraph - TS - Conusulta RH
 
 This repository demonstrates how to use LangGraph with MongoDB for building and managing AI agents and conversational applications using an agentic approach. It showcases the integration of language models, graph-based conversation management, and MongoDB for data persistence, enabling the creation of intelligent, autonomous agents in TypeScript and Express.js.
 
